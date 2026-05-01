@@ -18,9 +18,9 @@ After completing this module, you will be able to:
 
 ## Overview
 
-This module introduces citation management and two free tools: **Zotero** and **Paperpile**. It also covers the **Biosketch**, a document required for grant applications. Go through the summary texts on this page and review the presentations, recordings, guides, and other resources in the Resources Section to learn more.
+This module introduces citation management and two tools: **Zotero** and **Paperpile**. It also covers the **Biosketch**, a document required for federal grant applications.
 
-> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your certificate!
+> ✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your certificate.
 
 ---
 
@@ -33,36 +33,81 @@ Manually tracking hundreds of references is error-prone and time-consuming. Cita
 - Sync your library across devices and collaborate with team members
 - Attach and annotate PDFs alongside your references
 
+See the [UCR Library Citation Management Guide](https://guides.lib.ucr.edu/referencemanagement) for an overview of all tools available to UCR students.
+
+---
+
+## Presentation Slides
+
+Review the slides below for a full walkthrough of citation management tools and workflows.
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/1RHQclRtv3HbgBarlz9zVlBQUYoh456Im/embed?start=false&loop=false&delayms=3000"
+  width="100%" height="480" frameborder="0" allowfullscreen>
+</iframe>
+```
+
 ---
 
 ## Zotero vs. Paperpile
 
 ### Choosing the Right Tool
 
-Both tools are free to start and cover similar core workflow. Review the presentation slides and recordings in the Resources Section to learn more.
+Both tools cover the same core workflow. Your choice mainly depends on where you write.
 
 | Feature | Zotero | Paperpile |
 |---|---|---|
-| Price | Free ([300 MB storage](https://www.zotero.org/storage)) | UCR Subscription using UCR email address |
-| Best for | Word, LibreOffice, standalone use | Google Docs users |
-| Browser extension | ✅ All browsers| ✅ Google Chrome|
+| Price | Free ([300 MB storage online](https://www.zotero.org/storage)) | Free with UCR email |
+| Best for | Word, LibreOffice, [Google Docs](https://www.zotero.org/support/google_docs) | Google Docs, [Microsoft Word](https://paperpile.com/h/get-started-word/) |
+| Browser extension | ✅ All browsers | ✅ Google Chrome |
 | Collaboration | ✅ Group libraries | ✅ Shared folders |
 | Mobile app | ✅ | ✅ |
 | PDF annotation | ✅ Built-in | ✅ Built-in |
 
-### [Zotero]((https://www.zotero.org/))
+### Zotero
 
-- Download at [zotero.org](https://www.zotero.org/) — freemium (subscription comes with more storage but the features are the same), open source
-- Install the **Zotero Connector** browser extension to save references in one click
-- Integrates with Microsoft Word, LibreOffice, and Google Docs
-- Sync your library across devices with a free Zotero account
+[Zotero](https://www.zotero.org/) is free and open source, works with Microsoft Word, LibreOffice, and Google Docs, and lets you sync your library across devices.
 
-### [Paperpile](https://paperpile.com/)
+**Getting started:**
 
-- UCR Subscription using UCR email address
-- Works entirely in the **Google Docs** environment — no separate app needed
-- Install the browser extension and Google Docs add-on
-- Best choice if your entire workflow lives in Google Drive
+1. Download Zotero at [zotero.org](https://www.zotero.org/)
+2. Install the **[Zotero Connector](https://www.zotero.org/download/connectors)** browser extension to save references in one click
+3. Create a free Zotero account to sync across devices
+4. See the [UCR Citation Management Guide](https://guides.lib.ucr.edu/referencemanagement) for style-specific tips
+
+Watch the workshop recording below for a full walkthrough:
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Fq6N-KzxvpY?list=PLaDWxNwvAu5bQrpeV7ORCiw6OY1a215Hm" frameborder="0" allowfullscreen></iframe>
+```
+
+[▶ View full Citation Management playlist on YouTube](https://www.youtube.com/playlist?list=PLaDWxNwvAu5bQrpeV7ORCiw6OY1a215Hm)
+
+### Paperpile
+
+[Paperpile](https://paperpile.com/) is available free to UCR students using your UCR email address. It lives entirely inside Google Docs — no separate desktop app needed.
+
+**Getting started:**
+
+1. Sign up at [paperpile.com](https://paperpile.com/) using your UCR email
+2. Install the **Paperpile browser extension** (Chrome) and the **Google Docs add-on**
+3. Import references directly from Google Scholar, PubMed, or by uploading PDFs
+
+Paperpile now also supports **Microsoft Word** — install the [Paperpile Word add-in](https://paperpile.com/h/get-started-word/) if Word is your preferred writing environment.
+
+See the [UCR Paperpile LibGuide](https://guides.lib.ucr.edu/paperpile) for step-by-step instructions and tips.
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/odYFJRKqEdM?list=PLaDWxNwvAu5bQrpeV7ORCiw6OY1a215Hm" frameborder="0" allowfullscreen></iframe>
+```
+
+[▶ View full Citation Management playlist on YouTube](https://www.youtube.com/playlist?list=PLaDWxNwvAu5bQrpeV7ORCiw6OY1a215Hm)
+
+---
+
+## Citing Sources
+
+Once your library is set up, both tools let you insert citations and auto-generate a bibliography in any style. For style-specific guidance (APA, MLA, Chicago, and more), see the [UCR How to Cite Sources Guide](https://guides.lib.ucr.edu/citing).
 
 ---
 
@@ -71,42 +116,8 @@ Both tools are free to start and cover similar core workflow. Review the present
 A **biosketch** is a short professional biography required by federal funders (NIH, NSF) as part of grant applications. It summarizes your education, positions, contributions to science, and research support.
 
 - NIH and NSF each have slightly different biosketch formats
-- The [UCR Library guide](https://guides.lib.ucr.edu/c.php?g=962000&p=7732817) walks you through each section step by step
-- Creating your biosketch early before grant deadlines saves significant time
-
----
-
-## Resources
-
-### Guides & Overviews
-
-::: {.resource-list}
-- [**Guide: Citation Management Overview**](https://guides.lib.ucr.edu/referencemanagement) — UCR Library guide covering all citation tools available to students
-  [Guide]{.resource-type}
-
-- [**Guide: How to Cite Sources**](https://guides.lib.ucr.edu/citing) — Style guides for APA, MLA, Chicago, and discipline-specific formats
-  [Guide]{.resource-type}
-
-- [**Guide: Creating Your Biosketch**](https://guides.lib.ucr.edu/c.php?g=962000&p=7732817) — Step-by-step instructions for NIH and NSF biosketches
-  [Guide]{.resource-type}
-:::
-
-### Zotero
-
-::: {.resource-list}
-- [**Slides: Citation Management with Zotero**](https://docs.google.com/presentation/d/1Mxk8b7uPGbGAX7C_tOtYza4__-dZZ34J-IpDhBBaH_Q/edit?usp=sharing) — Presentation slides from UCR Library
-  [Slides]{.resource-type .slides}
-
-- [**Recording: Citation Series — Zotero & Paperpile**](https://www.youtube.com/watch?v=odYFJRKqEdM&list=PLaDWxNwvAu5bQrpeV7ORCiw6OY1a215Hm&index=1) — Video workshop recording
-  [Video]{.resource-type .video}
-:::
-
-### Paperpile
-
-::: {.resource-list}
-- [**Slides: Paperpile — Citation Management for Google Docs**](https://docs.google.com/presentation/d/1fLMz5rMfYl_rVUcaZI3bCevpD6acj3Lh/edit?usp=sharing&rtpof=true&sd=true) — Presentation slides from UCR Library
-  [Slides]{.resource-type .slides}
-:::
+- The [UCR Library Biosketch Guide](https://guides.lib.ucr.edu/c.php?g=962000&p=7732817) walks you through each section step by step
+- Creating your biosketch early — before grant deadlines — saves significant time
 
 ---
 
@@ -129,7 +140,8 @@ Set up a citation management tool (Zotero or Paperpile) and submit screenshots s
 
 ## Get Help
 
-- 🗓️ UCR Library offers **synchronous Zotero workshops** sometimes — check [library.ucr.edu](https://library.ucr.edu) for upcoming sessions
+- 📚 [UCR Library Citation Management Guide](https://guides.lib.ucr.edu/referencemanagement)
+- 🗓️ UCR Library offers **synchronous Zotero workshops** — check [library.ucr.edu](https://library.ucr.edu) for upcoming sessions
 - 📧 **STEM Teaching Librarian:** Mary-Michelle Moore · [marymichelle.moore@ucr.edu](mailto:marymichelle.moore@ucr.edu)
 - 📧 **LibSTEM Team:** [libstemteam@ucr.edu](mailto:libstemteam@ucr.edu)
 
