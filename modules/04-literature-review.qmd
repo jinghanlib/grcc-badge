@@ -19,7 +19,7 @@ After completing this module, you will be able to:
 
 ## Overview
 
-This module introduces the different types of reviews you may encounter in academic research. It guides you through designing an effective literature review search strategy and highlights UC Riverside Library resources that support you throughout the process. In addition to going through this page, review the tutorials and guides the at the Resources Section.
+This module introduces the different types of reviews you may encounter in academic research. It guides you through designing an effective literature review search strategy and highlights UC Riverside Library resources that support you throughout the process.
 
 > ✅ Complete the assignment at the end of this module and the associated quiz on Canvas to earn credit toward your certificate!
 
@@ -110,14 +110,20 @@ Break your question into 2–4 core concepts. For each concept, brainstorm:
 
 ### Step 3: Choose Your Databases
 
-Start with UC Library Search and Google Scholar (Google Scholar tends to include everything the good, bad and everythin in between, so better to use it critically)! You can also use databases appropriate to your discipline. Explore databases specific to your discipline that UCR Library has access to at the UCR Library [A-Z Databases](https://guides.lib.ucr.edu/az/databases)
+Start with [UC Library Search](https://library.ucr.edu) and Google Scholar (Google Scholar tends to include everything — the good, the bad, and everything in between — so use it critically). Explore databases specific to your discipline via the UCR Library [A-Z Databases](https://guides.lib.ucr.edu/az/databases).
 
 | Discipline | Recommended Databases |
 |---|---|
-| Sciences & Medicine | PubMed, Web of Science|
-| Social Sciences and Humanities | JSTOR, Web of Science (Social Science Citation Index and Policy Citation Index), Academic Search Complete|
+| Sciences & Medicine | PubMed, Web of Science |
+| Social Sciences and Humanities | JSTOR, Web of Science (Social Science Citation Index and Policy Citation Index), Academic Search Complete |
 | Engineering | arXiv, IEEE Xplore |
 | All disciplines | UC Library Search, Google Scholar |
+
+Watch this tutorial to get started with UC Library Search:
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/_xo6aArRV1E" frameborder="0" allowfullscreen></iframe>
+```
 
 ### Step 4: Use Boolean Operators
 
@@ -129,9 +135,17 @@ Combine search terms with:
 - **Quotation marks** — exact phrase search
 - **Asterisk \*** — truncation (e.g., `data*` finds data, dataset, databases)
 
+Watch this tutorial on building effective search strategies across library databases:
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/UA3h_rFFqB8" frameborder="0" allowfullscreen></iframe>
+```
+
 ### Step 5: Document Everything
 
 Record every search: database, date, terms used, and number of results. This is required for systematic and scoping reviews, and good practice for any review.
+
+See the [UCR Library Conducting a Literature Review Guide](https://guides.lib.ucr.edu/litreview) for comprehensive guidance throughout this process.
 
 ---
 
@@ -149,26 +163,7 @@ An **annotated bibliography** combines a citation with a brief summary and evalu
 2. Summary of the work's main argument or findings (2–3 sentences)
 3. Evaluation of its relevance, methodology, or limitations (1–2 sentences)
 
----
-
-## Resources
-
-::: {.resource-list}
-- [**Guide: Conducting a Literature Review**](https://guides.lib.ucr.edu/litreview) — UCR Library comprehensive guide
-  [Guide]{.resource-type}
-
-- [**Guide: Writing an Annotated Bibliography**](https://guides.lib.ucr.edu/c.php?g=171083&p=1126832) — Format and examples
-  [Guide]{.resource-type}
-
-- [**Types of Reviews — Baylor University Evidence Synthesis Guide**](https://libguides.baylor.edu/evidencesynthesis/typesofreviews) — Definitions and characteristics of 14 review methodologies
-  [Guide]{.resource-type}
-
-- [**Video Tutorial: How to Use UC Library Search**](https://www.youtube.com/watch?v=kZBpR-ogTZQ)
-  [Video]{.resource-type .video}
-
-- [**Video Tutorial: Search Strategies for Using Library Databases**](https://www.youtube.com/watch?v=UA3h_rFFqB8)
-  [Video]{.resource-type .video}
-:::
+See the [UCR Guide to Writing an Annotated Bibliography](https://guides.lib.ucr.edu/c.php?g=171083&p=1126832) for format examples and templates.
 
 ---
 

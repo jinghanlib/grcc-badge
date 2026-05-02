@@ -35,11 +35,25 @@ UCR Graduate Council sets specific formatting standards for all theses and disse
 - **Title page:** Required elements and exact formatting
 - **Table of contents:** Required formatting and depth
 
+See the [UCR Graduate Division Filing Resources](https://graduate.ucr.edu/filing-resources#formatting-and-submission-link) for the full formatting guidelines, forms, and graduation timelines.
+
 ::: {.callout-warning}
 ### Attend a Format Workshop Before You Submit
 
 Formatting errors are one of the most common causes of delayed degree conferral. Graduate Division offers regular formatting workshops and detailed guides. **Do not wait until the last minute.**
 :::
+
+Review the slides and watch the workshop recording below for a full walkthrough of formatting and submission requirements.
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/16hibz_ztHns8QJ7vXH56b8SKDpIGXTKcgHePdPebA7U/embed?start=false&loop=false&delayms=3000"
+  width="100%" height="480" frameborder="0" allowfullscreen>
+</iframe>
+```
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/OP0ts5BLoXM" frameborder="0" allowfullscreen></iframe>
+```
 
 ---
 
@@ -59,7 +73,7 @@ Formatting errors are one of the most common causes of delayed degree conferral.
 
 You may request an **embargo** (delay in public access) if:
 
-- A publisher has requested exclusivity for publication or you want to turn publish your dissertation work with a publisher in the future
+- A publisher has requested exclusivity for publication or you want to publish your dissertation work with a publisher in the future
 - Your research contains sensitive data
 - You are filing patents related to your work
 
@@ -86,21 +100,6 @@ Always read the ProQuest publishing agreement before submitting. For questions, 
 | Formatting, forms, graduation timeline | [UCR Graduate Division](https://graduate.ucr.edu/) |
 | Copyright in your thesis | Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
 | eScholarship deposit | Dr. Jing Han · [jingh@ucr.edu](mailto:jingh@ucr.edu) |
-
----
-
-## Resources
-
-::: {.resource-list}
-- [**Slides: Dissertation and Thesis Formatting and Submission Workshop**](https://docs.google.com/presentation/d/16hibz_ztHns8QJ7vXH56b8SKDpIGXTKcgHePdPebA7U/edit?usp=sharing)
-  [Slides]{.resource-type .slides}
-
-- [**Recording: Format Workshop for Your Thesis and Dissertation**](https://www.youtube.com/watch?v=OP0ts5BLoXM)
-  [Video]{.resource-type .video}
-
-- [**UCR Graduate Division Filing Resources**](https://graduate.ucr.edu/filing-resources#formatting-and-submission-link) — formatting guidelines, workshops, forms, and timelines
-  [Guide]{.resource-type}
-:::
 
 ---
 

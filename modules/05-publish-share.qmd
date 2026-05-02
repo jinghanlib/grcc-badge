@@ -41,11 +41,23 @@ In the U.S., **you (the author)** typically own the copyright to your thesis or 
 - You can post to your personal website
 - You must comply with any agreements you've signed with publishers for previously published chapters
 
+Review the slides and watch the recording below for a full overview of copyright as it applies to your thesis and dissertation.
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/1XVaSMT6icxuWbQ_pCGVwKyQZxqLjtw7pV42AqhBS5vQ/embed?start=false&loop=false&delayms=3000"
+  width="100%" height="480" frameborder="0" allowfullscreen>
+</iframe>
+```
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7RKfl4rWJ2E" frameborder="0" allowfullscreen></iframe>
+```
+
 ---
 
 ## Copyright Decision Framework
 
-When using third-party content or sharing your own work, work through following four steps. Review the presentation slides and recordings on  Copyright & Fair Use for Digital Projects in the Resources Section to learn more.
+When using third-party content or sharing your own work, work through the following four steps.
 
 ![Copyright decision framework: four steps for navigating permission, policy, and sharing.](../images/copyright-workflow.png){fig-alt="A four-step copyright decision workflow. Step 1: Do you need permission? Step 2: Seek permission if needed. Step 3: Address non-copyright law and policy concerns. Step 4: How do you want to share?" width="100%"}
 
@@ -102,6 +114,18 @@ Once copyright and policy concerns are resolved, decide how to make your work av
 - **Register your copyright** — optional in the U.S., but registration provides legal advantages if infringement occurs. ProQuest offers registration at the time of dissertation submission.
 - **License your work** — Creative Commons licenses let you specify exactly what others can do with it (see below).
 
+Review the slides and recording below for a deeper dive into copyright and fair use for digital projects.
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/1sjOKJPA4bcc-1L7Cwv7nwUpB1cZG3Xy3lKpcLocUvA4/embed?start=false&loop=false&delayms=3000"
+  width="100%" height="480" frameborder="0" allowfullscreen>
+</iframe>
+```
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vmX6g9NZ_4g" frameborder="0" allowfullscreen></iframe>
+```
+
 ---
 
 ## Creative Commons Licenses
@@ -131,40 +155,28 @@ Turning your dissertation into a book or journal articles is an exciting but com
 3. Adapt your dissertation chapter to article format (typically 6,000–10,000 words)
 4. Submit and revise through peer review
 
-### Book Publication (Review the presentation slides and recordings on From Dissertation to Book — Navigating the Publication Process in the Resources Section)
+### Book Publication
 
 1. Identify academic presses in your field
 2. Prepare a book proposal (overview, chapter summaries, market analysis)
 3. Navigate the peer review and revision process
 4. Review your publisher agreement carefully
 
+Watch the recording below for a walkthrough of navigating the dissertation-to-book publication process.
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/g4VduJLstBY" frameborder="0" allowfullscreen></iframe>
+```
+
+For additional perspective, this optional webinar covers book publishing specifically for first-generation scholars:
+
+```{=html}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/R3QSi5NMBNA" frameborder="0" allowfullscreen></iframe>
+```
+
 ### ProQuest Submission
 
 Submitting your thesis or dissertation to ProQuest is a **graduation requirement** — this is separate from transforming your work into a publication with a commercial publisher. See [Module 6: Graduate Academic Affairs](06-graduate-academic-affairs.qmd) for the full submission process.
-
----
-
-## Resources
-
-::: {.resource-list}
-- [**Slides: Copyright and Your Thesis/Dissertation**](https://docs.google.com/presentation/d/1XVaSMT6icxuWbQ_pCGVwKyQZxqLjtw7pV42AqhBS5vQ/edit?usp=sharing)
-  [Slides]{.resource-type .slides}
-
-- [**Recording: Copyright & Your Dissertation**](https://www.youtube.com/watch?v=7RKfl4rWJ2E)
-  [Video]{.resource-type .video}
-
-- [**Slides: Copyright & Fair Use for Digital Projects**](https://docs.google.com/presentation/d/1sjOKJPA4bcc-1L7Cwv7nwUpB1cZG3Xy3lKpcLocUvA4/edit?usp=sharing)
-  [Slides]{.resource-type .slides}
-
-- [**Recording: Copyright & Fair Use for Digital Projects**](https://www.youtube.com/watch?v=vmX6g9NZ_4g)
-  [Video]{.resource-type .video}
-
-- [**Recording: From Dissertation to Book — Navigating the Publication Process**](https://www.youtube.com/watch?v=g4VduJLstBY)
-  [Video]{.resource-type .video}
-
-- [**Optional Webinar: Demystifying Book Publishing for First-Gen Scholars**](https://www.youtube.com/watch?v=R3QSi5NMBNA)
-  [Video]{.resource-type .video}
-:::
 
 ---
 
@@ -173,7 +185,7 @@ Submitting your thesis or dissertation to ProQuest is a **graduation requirement
 ::: {.callout-important}
 ### 📋 Assignment: Publish and Share Your Thesis and Dissertation Quiz
 
-Complete the knowledge check quiz in the [Knowledge Checks](../knowledge-checks.qmd) page. The quiz is also available on Canvas for credit.
+Complete the quiz on Canvas to earn credit toward your certificate.
 
 *This assignment is required for the certificate.*
 :::

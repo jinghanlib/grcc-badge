@@ -100,17 +100,10 @@ It will evolve as your research progresses. What matters most is showing that yo
 
 ## Writing Support Resources
 
-Graduate Division has recordings to help with your writing:
+Graduate Division has recordings to help with your writing. Access these with your UCR credentials:
 
-::: {.resource-list}
-- [**Flexible Writing Practices**](https://ucr.yuja.com/V/Video?v=9651248&node=42604592&a=5635964&autoplay=1) *(UCR credential required)*
-  [Video]{.resource-type .video}
-
-- [**How to Write Concisely**](https://ucr.yuja.com/V/Video?v=12213934&node=53414012&a=73574019) *(UCR credential required)*
-  [Video]{.resource-type .video}
-:::
-
-Also refer to the **Get Help** section under each module for specific guidance on each section of your research plan.
+- [**Flexible Writing Practices**](https://ucr.yuja.com/V/Video?v=9651248&node=42604592&a=5635964&autoplay=1)
+- [**How to Write Concisely**](https://ucr.yuja.com/V/Video?v=12213934&node=53414012&a=73574019)
 
 ---
 
@@ -118,12 +111,12 @@ Also refer to the **Get Help** section under each module for specific guidance o
 
 Before submitting your capstone, confirm you have completed all of the following:
 
-- [ ] Module 1: Citation Management — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
-- [ ] Module 2: Scholarly Communication — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
-- [ ] Module 3: Data Management — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
-- [ ] Module 4: Literature Review Strategies — two assignments submitted on Canvas and review materials in the Resources of this website (also on Canvas)
-- [ ] Module 5: Publish & Share — quiz submitted on Canvas and review materials in the Resources of this website (also on Canvas)
-- [ ] Module 6: Graduate Academic Affairs — no assignment but review materials in the Resources of this website (also on Canvas)
+- [ ] Module 1: Citation Management — assignments submitted on Canvas
+- [ ] Module 2: Scholarly Communication — assignments submitted on Canvas
+- [ ] Module 3: Data Management — assignments submitted on Canvas
+- [ ] Module 4: Literature Review Strategies — assignment submitted on Canvas
+- [ ] Module 5: Publish & Share — quiz submitted on Canvas
+- [ ] Module 6: Graduate Academic Affairs — knowledge check submitted on Canvas
 - [ ] Module 7 (Capstone): Research Plan — **submit now!**
 
 ---
