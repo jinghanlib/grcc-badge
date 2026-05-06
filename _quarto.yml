@@ -35,7 +35,7 @@ website:
         href: about.qmd
     right:
       - icon: github
-        href: https://github.com/jinghanlib/grcc-certificate
+        href: https://github.com/jinghanlib/grcc-badge
         aria-label: GitHub
 
   sidebar: false
@@ -44,7 +44,7 @@ website:
     left: "© UC Riverside Library · UCR Library Graduate Research Core Competencies Badge"
     right:
       - icon: github
-        href: https://github.com/jinghanlib/grcc-certificate
+        href: https://github.com/jinghanlib/grcc-badge
 
 format:
   html:

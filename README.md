@@ -1,8 +1,8 @@
 # Graduate Research Core Competencies Certificate
 
-A **self-paced, open certificate website** for UC Riverside graduate students, built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://jinghanlib.github.io/grcc-certificate/).
+A **self-paced, open certificate website** for UC Riverside graduate students, built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://jinghanlib.github.io/grcc-badge/).
 
-**Live site:** https://jinghanlib.github.io/grcc-certificate/
+**Live site:** https://jinghanlib.github.io/grcc-badge/
 
 ---
 
