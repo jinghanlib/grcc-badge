@@ -3,7 +3,7 @@
 A **self-paced, open certificate website** for UC Riverside graduate students, built with [Quarto](https://quarto.org) and hosted on [GitHub Pages](https://jinghanlib.github.io/grcc-badge/).
 
 **Enroll on Canvas:** https://elearn.ucr.edu/enroll/HJ8D8K (UCR students need to submit assignments on Canvas to receive the official badge)
-**Live standalone site to streamline asynchronous learning:** https://jinghanlib.github.io/grcc-badge/
+**Live standalone site to streamline asynchronous learning:** https://jinghanlib.github.io/grcc-badge/ (This site is also intergrated on Canvas under START FROM HERE section of each module)
 
 ---
 
