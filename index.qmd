@@ -13,6 +13,8 @@ UC Riverside Library · Self-Paced Badge
 Practical skills for every stage of your research journey — citation management, scholarly communication, data management, literature review strategies, publishing, and more.
 
 **Complete all modules at your own pace to earn your badge.**
+
+<a href="https://elearn.ucr.edu/enroll/HJ8D8K" class="enroll-btn" target="_blank">Enroll on Canvas →</a>
 :::
 
 ## What You'll Learn
@@ -35,8 +37,10 @@ Participants develop strategies for:
 ```{=html}
 <div class="canvas-reminder">
   <div class="canvas-reminder-body">
-    <strong>Submit Assignments on Canvas to Earn Points</strong>
-    <p>The knowledge checks on this website mirror the quizzes on Canvas and are for self-study practice. To receive credit toward your badge, complete and submit all assignments through the <strong>Canvas course platform.</strong> Completing quizzes here does <em>not</em> count toward your grade.</p>
+    <strong>This Site Is Integrated with Canvas</strong>
+    <p>This website is designed to streamline <strong>asynchronous learning</strong> — you can work through each module at any time, at your own pace. Each Canvas module includes a <strong>START FROM HERE</strong> section that links directly to the corresponding page on this site.</p>
+    <p>The knowledge checks here mirror the quizzes on Canvas and are for self-study practice only. To receive credit and earn the official badge, <strong>all assignments must be submitted on Canvas.</strong> Completing quizzes here does <em>not</em> count toward your grade.</p>
+    <p>Not enrolled yet? <a href="https://elearn.ucr.edu/enroll/HJ8D8K" target="_blank"><strong>Enroll in the Canvas course →</strong></a></p>
   </div>
 </div>
 ```

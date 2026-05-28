@@ -28,6 +28,13 @@
     "text": "Zotero vs. Paperpile\n\nChoosing the Right Tool\nBoth tools cover the same core workflow. Your choice mainly depends on where you write. Review the slides below for an overview, then read on for details on each tool.\n\n\n\nFeature\nZotero\nPaperpile\n\n\n\n\nPrice\nFree (300 MB storage online)\nFree with UCR email\n\n\nBest for\nWord, LibreOffice, Google Docs\nGoogle Docs, Microsoft Word\n\n\nBrowser extension\n✅ All browsers\n✅ Google Chrome\n\n\nCollaboration\n✅ Group libraries\n✅ Shared folders\n\n\nMobile app\n✅\n✅\n\n\nPDF annotation\n✅ Built-in\n✅ Built-in\n\n\n\n\n\n\n\nZotero\nZotero is free and open source, works with Microsoft Word, LibreOffice, and Google Docs, and lets you sync your library across devices.\nGetting started:\n\nDownload Zotero at zotero.org\nInstall the Zotero Connector browser extension to save references in one click\nCreate a free Zotero account to sync across devices\nSee the UCR Citation Management Guide for style-specific tips\n\nWatch the workshop recording below for a full walkthrough:\n\n▶ View full Citation Management playlist on YouTube\n\n\nPaperpile\nPaperpile is available free to UCR students using your UCR email address. It lives entirely inside Google Docs — no separate desktop app needed.\nGetting started:\n\nSign up at paperpile.com using your UCR email\nInstall the Paperpile browser extension (Chrome) and the Google Docs add-on\nImport references directly from Google Scholar, PubMed, or by uploading PDFs\n\nPaperpile now also supports Microsoft Word — install the Paperpile Word add-in if Word is your preferred writing environment.\nSee the UCR Paperpile LibGuide for step-by-step instructions and tips.\n\n▶ View full Citation Management playlist on YouTube"
   },
   {
+    "objectID": "modules/01-citation-management.html#citing-sources",
+    "href": "modules/01-citation-management.html#citing-sources",
+    "title": "Module 1: Citation Management",
+    "section": "Citing Sources",
+    "text": "Citing Sources\nOnce your library is set up, both tools let you insert citations and auto-generate a bibliography in any style. For style-specific guidance (APA, MLA, Chicago, and more), see the UCR How to Cite Sources Guide."
+  },
+  {
     "objectID": "modules/01-citation-management.html#biosketches-for-grant-applications",
     "href": "modules/01-citation-management.html#biosketches-for-grant-applications",
     "title": "Module 1: Citation Management",
@@ -35,18 +42,11 @@
     "text": "Biosketches for Grant Applications\nA biosketch is a short professional biography required by federal funders (NIH, NSF) as part of grant applications. It summarizes your education, positions, contributions to science, and research support.\n\nNIH and NSF each have slightly different biosketch formats\nThe UCR Library Biosketch Guide walks you through each section step by step\nCreating your biosketch early — before grant deadlines — saves significant time"
   },
   {
-    "objectID": "modules/01-citation-management.html#resources",
-    "href": "modules/01-citation-management.html#resources",
-    "title": "Module 1: Citation Management",
-    "section": "Resources",
-    "text": "Resources\n\nGuides & Overviews\n\n\nGuide: Citation Management Overview — UCR Library guide covering all citation tools available to students Guide\nGuide: How to Cite Sources — Style guides for APA, MLA, Chicago, and discipline-specific formats Guide\nGuide: Creating Your Biosketch — Step-by-step instructions for NIH and NSF biosketches Guide\n\n\n\n\nZotero\n\n\nSlides: Citation Management with Zotero — Presentation slides from UCR Library Slides\nRecording: Citation Series — Zotero & Paperpile — Video workshop recording Video\n\n\n\n\nPaperpile\n\n\nSlides: Paperpile — Citation Management for Google Docs — Presentation slides from UCR Library Slides"
-  },
-  {
     "objectID": "modules/01-citation-management.html#assignment",
     "href": "modules/01-citation-management.html#assignment",
     "title": "Module 1: Citation Management",
     "section": "Assignment",
-    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: Screenshots of Your Citation Management Tool\n\n\n\nSet up a citation management tool (Zotero or Paperpile) and submit screenshots showing:\n\nYour citation library with at least 3 references imported\nEvidence of browser extension installation OR a citation exported to a document\n\nSubmission: Upload your screenshots to the Canvas course platform.\nThis assignment is required for the certificate."
+    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: Screenshots of Your Citation Management Tool\n\n\n\nSet up a citation management tool (Zotero or Paperpile) and submit screenshots showing:\n\nYour citation library with at least 3 references imported\nEvidence of browser extension installation OR a citation exported to a document\n\nSubmission: Upload your screenshots to the Canvas course platform.\nThis assignment is required for the badge."
   },
   {
     "objectID": "modules/01-citation-management.html#get-help",
@@ -70,11 +70,25 @@
     "text": "Overview\nThis module walks you through the scholarly communication landscape — from understanding how research gets published, to building your online academic presence, to making your work openly accessible. ORCID is the one thing you must remember after taking this module!\n\n✅ Complete the assignment at the end of this module and the associated knowledge check quiz on Canvas to earn credit toward your badge!"
   },
   {
-    "objectID": "modules/02-scholarly-communication.html#orcid-your-persistent-research-identity",
-    "href": "modules/02-scholarly-communication.html#orcid-your-persistent-research-identity",
+    "objectID": "modules/02-scholarly-communication.html#introduction-to-scholarly-publishing",
+    "href": "modules/02-scholarly-communication.html#introduction-to-scholarly-publishing",
     "title": "Module 2: Scholarly Communication",
-    "section": "ORCID: Your Persistent Research Identity",
-    "text": "ORCID: Your Persistent Research Identity\nORCID (Open Researcher and Contributor ID) is a free, unique digital identifier that distinguishes you from every other researcher, even those with the same name.\n\nWhy ORCID Matters\n\nEnsures your publications are correctly attributed to you regardless of name changes or institutional affiliations\nRequired by many funders (NIH, NSF) and journals for submission\nConnects to other research systems (Scopus, Web of Science, funding databases) automatically\nSaves time to document your research contributions\nProvides fine-grained ways of documenting your contributions, such as peer review experiences and services\n\n\n\nGetting Started with ORCID\n\nRegister at orcid.org — free and takes less than 5 minutes\nAdd your works — import from PubMed, CrossRef, or manually\nMake your ORCID record public to maximize visibility\nAdd your ORCID iD to your email signature, CV, and manuscript submissions\nDetailed instructions: Getting started with your ORCID record · Optimize your ORCID profile\n\n\n\nAcademic Profile Online\nReview the slides below, then watch the recording for a guided walkthrough of building your academic profile online.\n\n\n\n\n\nORCID & Persistent Identifiers (PIDs)\nReview the slides below, then watch the workshop recording to see ORCID and PIDs in action."
+    "section": "Introduction to Scholarly Publishing",
+    "text": "Introduction to Scholarly Publishing\nScholarly publishing is how research and creative work across all disciplines moves into the academic record — from the sciences and social sciences to the humanities and arts. Understanding this process helps you make informed decisions about where and how to publish your work.\nFor a graduate student’s perspective on navigating the publishing process, read: Student Column: Graduate Student’s Experience and Advice on Publishing.\nReview the slides below for an introduction to the scholarly publishing landscape."
+  },
+  {
+    "objectID": "modules/02-scholarly-communication.html#building-your-academic-profile-online",
+    "href": "modules/02-scholarly-communication.html#building-your-academic-profile-online",
+    "title": "Module 2: Scholarly Communication",
+    "section": "Building Your Academic Profile Online",
+    "text": "Building Your Academic Profile Online\nYour online academic presence helps others find your work, follow your research, and recognize your contributions across platforms. Review the slides below, then watch the recording for a guided walkthrough."
+  },
+  {
+    "objectID": "modules/02-scholarly-communication.html#orcid-persistent-identifiers-pids",
+    "href": "modules/02-scholarly-communication.html#orcid-persistent-identifiers-pids",
+    "title": "Module 2: Scholarly Communication",
+    "section": "ORCID & Persistent Identifiers (PIDs)",
+    "text": "ORCID & Persistent Identifiers (PIDs)\nORCID (Open Researcher and Contributor ID) is a free, unique digital identifier that distinguishes you from every other researcher, even those with the same name. Persistent identifiers (PIDs) like ORCID connect your identity across research systems automatically.\n\nWhy ORCID Matters\n\nEnsures your publications are correctly attributed to you regardless of name changes or institutional affiliations\nRequired by many funders (NIH, NSF) and journals for submission\nConnects to other research systems (Scopus, Web of Science, funding databases) automatically\nSaves time documenting your research contributions\nProvides fine-grained ways of documenting contributions, such as peer review experiences and services\n\n\n\nGetting Started with ORCID\n\nRegister at orcid.org — free and takes less than 5 minutes\nAdd your works — import from PubMed, CrossRef, or manually\nMake your ORCID record public to maximize visibility\nAdd your ORCID iD to your email signature, CV, and manuscript submissions\nDetailed instructions: Getting started with your ORCID record · Optimize your ORCID profile\n\nReview the slides below, then watch the workshop recording to see ORCID and PIDs in action.\n\n\n\n\n\n\n\n\n\nNoteShould my ORCID record only include peer-reviewed articles?\n\n\n\n\n\nNo. Your ORCID record should include all types of scholarly outputs — peer-reviewed articles, preprints, conference presentations, datasets, software, and more. The more complete your record, the better it reflects your full research contribution."
   },
   {
     "objectID": "modules/02-scholarly-communication.html#open-access-publishing",
@@ -84,39 +98,18 @@
     "text": "Open Access Publishing\nOpen access (OA) means making your research freely available online to anyone, anywhere, without a paywall.\n\nThree Common Types of Open Access\n\n\n\nTypes of Open Access: Gold, Green, and Diamond\n\n\n\n\n\nType\nDescription\nCost to Author\n\n\n\n\nGold OA\nPublished in a fully open access journal\nArticle Processing Charge (APC) — Use the JOLT journal look up tool to see if a UC agreement can cover the APC fee partially or fully\n\n\nGreen OA\nDeposit a preprint or accepted manuscript in a repository such as eScholarship\nFree\n\n\nDiamond OA\nPublished open access with no cost to author or reader\nFree"
   },
   {
-    "objectID": "modules/02-scholarly-communication.html#escholarship-the-uc-system",
-    "href": "modules/02-scholarly-communication.html#escholarship-the-uc-system",
+    "objectID": "modules/02-scholarly-communication.html#uc-open-access-policy-journal-agreements-escholarship",
+    "href": "modules/02-scholarly-communication.html#uc-open-access-policy-journal-agreements-escholarship",
     "title": "Module 2: Scholarly Communication",
-    "section": "eScholarship & the UC System",
-    "text": "eScholarship & the UC System\neScholarship is the UC System’s open access publishing platform and institutional repository. It gives departments, research units, and individual scholars direct control over disseminating their scholarship.\n\nUCR’s eScholarship instance: escholarship.org/uc/ucr\nYour ProQuest thesis/dissertation submissions are deposited into eScholarship automatically\n\n\n\n\n\n\n\nNoteWhat is eScholarship and how is it related to me as a UCR graduate student?\n\n\n\n\n\neScholarship is the UC System’s Open Access Publishing Platform and Institutional Repository. It provides scholarly publishing and repository services that enable departments, research units, publishing programs, and individual scholars associated with the University of California to have direct control over the creation and dissemination of the full range of their scholarship.\nEach UC campus has its own instance. You can explore UCR’s eScholarship instance HERE. Your ProQuest thesis and dissertation submissions will be deposited automatically."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#uc-open-access-policy",
-    "href": "modules/02-scholarly-communication.html#uc-open-access-policy",
-    "title": "Module 2: Scholarly Communication",
-    "section": "UC Open Access Policy",
-    "text": "UC Open Access Policy\nThe UC Open Access Policy allows UC employees (including graduate students paid by the UC system) to:\n\nRetain copyright to their work\nGrant UC a non-exclusive license to distribute and display their work\nDeposit articles in an open access repository or publish in an OA journal\n\n\n\n\nUC Open Access Policy Coverage\n\n\nMore information: UC Open Access Policy · Questions: Dr. Jing Han · jingh@ucr.edu"
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#frequently-asked-questions",
-    "href": "modules/02-scholarly-communication.html#frequently-asked-questions",
-    "title": "Module 2: Scholarly Communication",
-    "section": "Frequently Asked Questions",
-    "text": "Frequently Asked Questions\n\n\n\n\n\n\nNoteWhat is eScholarship and how is it related to me as a UCR graduate student?\n\n\n\n\n\neScholarship is the UC System’s Open Access Publishing Platform and Institutional Repository. It provides scholarly publishing and repository services that enable departments, research units, publishing programs, and individual scholars associated with the University of California to have direct control over the creation and dissemination of the full range of their scholarship.\nEach UC campus has its own instance. You can explore UCR’s eScholarship instance HERE. Your ProQuest thesis and dissertation submissions will be deposited automatically.\n\n\n\n\n\n\n\n\n\nNoteDoes the UC Open Access Policy apply to me as a graduate student?\n\n\n\n\n\nIf you are a graduate student paid by the UC system, then this policy applies to you. You may opt out of the policy for any article for any reason. Contact Dr. Jing Han (jingh@ucr.edu) if you have questions.\n\n\n\n\n\n\n\n\n\nNoteShould my ORCID record only include peer-reviewed articles?\n\n\n\n\n\nNo. Your ORCID record should include all types of scholarly outputs — peer-reviewed articles, preprints, conference presentations, datasets, software, and more. The more complete your record, the better it reflects your full research contribution."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#resources",
-    "href": "modules/02-scholarly-communication.html#resources",
-    "title": "Module 2: Scholarly Communication",
-    "section": "Resources",
-    "text": "Resources\n\n\nSlides: Academic Profile Online Slides\nSlides: ORCID and More — PIDs for Increasing Research Visibility Slides\nRecording: ORCID and PIDs Video\nSlides: Introduction to Scholarly Publishing Slides\nUCR Scholarly Communication Services Website"
+    "section": "UC Open Access Policy, Journal Agreements & eScholarship",
+    "text": "UC Open Access Policy, Journal Agreements & eScholarship\n\nUC Open Access Policy\nThe University of California adopted an Open Access Policy ensuring that future research articles authored by all UC employees would be made available to the public at no charge once authors deposit them into eScholarship, UC’s open access repository.\n\n\n\nUC Open Access Policy Coverage\n\n\nMore information: UC Open Access Policy · Questions: Dr. Jing Han · jingh@ucr.edu\n\n\n\n\n\n\nNoteDoes the UC Open Access Policy apply to me as a graduate student?\n\n\n\n\n\nIf you are a graduate student paid by the UC system, then this policy applies to you. You may opt out of the policy for any article for any reason. Contact Dr. Jing Han (jingh@ucr.edu) if you have questions.\n\n\n\n\n\nUC Open Access Journal Agreements\n\nNote: UC Open Access Journal Agreements are separate from the UC Open Access Policy above. They are negotiated agreements between the UC system and publishers that allow UC-affiliated authors to publish open access in participating journals, covering APC (Article Processing Charge) fees fully or partially.\n\nAs a UC graduate student, you are eligible for these agreements as long as you are the article’s corresponding author and the work was done while you were affiliated with UC — regardless of your role or personnel status.\n\n\n\nOA Agreement eligibility covers students, postdocs, clinicians, adjunct faculty, and all UC personnel\n\n\n\nUse the JOLT Journal Look Up Tool to check whether a specific journal is covered by a UC OA agreement\nLearn more: UC OA Agreements FAQ\n\n\n\neScholarship\neScholarship is the UC System’s open access publishing platform and institutional repository. It gives departments, research units, and individual scholars direct control over disseminating their scholarship.\n\nUCR’s eScholarship instance: escholarship.org/uc/ucr\nYour ProQuest thesis/dissertation submissions are deposited into eScholarship automatically\n\n\n\n\n\n\n\nNoteWhat is eScholarship and how is it related to me as a UCR graduate student?\n\n\n\n\n\neScholarship is the UC System’s Open Access Publishing Platform and Institutional Repository. It provides scholarly publishing and repository services that enable departments, research units, publishing programs, and individual scholars associated with the University of California to have direct control over the creation and dissemination of the full range of their scholarship.\nEach UC campus has its own instance. You can explore UCR’s eScholarship instance HERE. Your ProQuest thesis and dissertation submissions will be deposited automatically.\n\n\n\nReview the slides and watch the recording below to learn how to navigate open access repositories and publish with eScholarship."
   },
   {
     "objectID": "modules/02-scholarly-communication.html#assignment",
     "href": "modules/02-scholarly-communication.html#assignment",
     "title": "Module 2: Scholarly Communication",
     "section": "Assignment",
-    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: What Is Your ORCID?\n\n\n\n\nRegister for an ORCID iD at orcid.org (if you don’t have one already)\nAdd at least 2 works to your ORCID record (institutional affiliation, educational experience, publications, presentations, preprints, services, awards, peer review or other works)\nSubmit your ORCID iD URL (e.g., https://orcid.org/0000-0000-0000-0000) to the Canvas course platform\n\nThis assignment is required for the certificate."
+    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: What Is Your ORCID?\n\n\n\n\nRegister for an ORCID iD at orcid.org (if you don’t have one already)\nAdd at least 2 works to your ORCID record (institutional affiliation, educational experience, publications, presentations, preprints, services, awards, peer review or other works)\nSubmit your ORCID iD URL (e.g., https://orcid.org/0000-0000-0000-0000) to the Canvas course platform\n\nThis assignment is required for the badge."
   },
   {
     "objectID": "modules/02-scholarly-communication.html#get-help",
@@ -161,11 +154,11 @@
     "text": "Writing Support Resources\nGraduate Division has recordings to help with your writing. Access these with your UCR credentials:\n\nFlexible Writing Practices\nHow to Write Concisely"
   },
   {
-    "objectID": "modules/07-capstone.html#certificate-checklist",
-    "href": "modules/07-capstone.html#certificate-checklist",
+    "objectID": "modules/07-capstone.html#badge-checklist",
+    "href": "modules/07-capstone.html#badge-checklist",
     "title": "Module 7 (Capstone): Research Plan",
-    "section": "Certificate Checklist",
-    "text": "Certificate Checklist\nBefore submitting your capstone, confirm you have completed all of the following:\n\nModule 1: Citation Management — assignments submitted on Canvas\nModule 2: Scholarly Communication — assignments submitted on Canvas\nModule 3: Data Management — assignments submitted on Canvas\nModule 4: Literature Review Strategies — assignment submitted on Canvas\nModule 5: Publish & Share — quiz submitted on Canvas\nModule 6: Graduate Academic Affairs — knowledge check submitted on Canvas\nModule 7 (Capstone): Research Plan — submit now!"
+    "section": "Badge Checklist",
+    "text": "Badge Checklist\nBefore submitting your capstone, confirm you have completed all of the following:\n\nModule 1: Citation Management — assignments submitted on Canvas\nModule 2: Scholarly Communication — assignments submitted on Canvas\nModule 3: Data Management — assignments submitted on Canvas\nModule 4: Literature Review Strategies — assignment submitted on Canvas\nModule 5: Publish & Share — quiz submitted on Canvas\nModule 6: Graduate Academic Affairs — knowledge check submitted on Canvas\nModule 7 (Capstone): Research Plan — submit now!"
   },
   {
     "objectID": "modules/07-capstone.html#capstone-assignment",
@@ -207,7 +200,7 @@
     "href": "modules/05-publish-share.html#copyright-decision-framework",
     "title": "Module 5: Publish & Share Your Research",
     "section": "Copyright Decision Framework",
-    "text": "Copyright Decision Framework\nWhen using third-party content or sharing your own work, work through the following four steps.\n\n\n\nCopyright decision framework: four steps for navigating permission, policy, and sharing.\n\n\n\nStep 1: Do You Need Permission?\nAsk three questions in sequence:\n\nIs the work protected by copyright? Works in the public domain (old enough, U.S. government works, or CC-licensed) do not require permission.\nHas a license already been granted? If the work carries a Creative Commons or open license, check its terms — you may already have permission.\nWould your use be fair use? If yes to any of these questions, skip to Step 3. Otherwise, continue to Step 2.\n\nFair use is a legal doctrine allowing limited use of copyrighted material without permission. Four factors are weighed:\n\nPurpose — Educational/transformative use favored over commercial use\nNature — Factual works favored over creative works\nAmount — Smaller portions favored over large portions\nMarket effect — Uses that don’t harm the market for the original are favored\n\n\n\n\n\n\n\nWarning\n\n\n\nFair use determinations depend heavily on the specific facts of each case. When in doubt, seek permission or consult a librarian. UCR Library does not provide legal advice, but can help you think through the analysis.\n\n\n\n\nStep 2: Seek Permission if Needed\nIf permission is required:\n\nResearch who holds the copyright — it may be the author, publisher, or another rights holder — and send a written request.\nKeep records of all correspondence and permissions granted.\nEnsure the permission covers all intended uses — print and digital, all jurisdictions, etc.\n\nCommon materials in theses and dissertations that may require permission:\n\n📷 Photographs taken by others\n🗺️ Maps from published sources\n📊 Figures, tables, or graphs from journal articles or books\n🎵 Music (lyrics, scores, recordings)\n🎬 Film stills or video clips (including screenshots of YouTube videos)\n📜 Lengthy quotations from books or articles\n\nEven if something is freely available online or you own a copy of a book, this does not mean you have permission to reproduce it.\n\n\nStep 3: Address Non-Copyright Law & Policy Concerns\nEven when copyright is not an issue, consider:\n\nContractual or terms of service restrictions from archives, databases, or websites that limit how their content may be used.\nPrivacy or publicity rights — concerns about identifiable individuals in your data or images.\nEthical norms — certain types of information (e.g., Indigenous cultural knowledge, sensitive research data) may carry obligations beyond copyright law.\n\n\n\nStep 4: How Do You Want to Share?\nOnce copyright and policy concerns are resolved, decide how to make your work available:\n\nRegister your copyright — optional in the U.S., but registration provides legal advantages if infringement occurs. ProQuest offers registration at the time of dissertation submission.\nLicense your work — Creative Commons licenses let you specify exactly what others can do with it (see below).\n\nReview the slides and recording below for a deeper dive into copyright and fair use for digital projects."
+    "text": "Copyright Decision Framework\nWhen using third-party content or sharing your own work, work through the following four steps.\n\n\n\nCopyright decision framework: four steps for navigating permission, policy, and sharing.\n\n\n\nStep 1: Do You Need Permission?\nAsk three questions in sequence:\n\nIs the work protected by copyright? Works in the public domain (old enough, U.S. government works, or CC-licensed) do not require permission.\nHas a license already been granted? If the work carries a Creative Commons or open license, check its terms — you may already have permission.\nWould your use be fair use? If yes to any of these questions, skip to Step 3. Otherwise, continue to Step 2.\n\nFair use is a legal doctrine allowing limited use of copyrighted material without permission. Four factors are weighed:\n\nPurpose — Educational/transformative use favored over commercial use\nNature — Factual works favored over creative works\nAmount — Smaller portions favored over large portions\nMarket effect — Uses that don’t harm the market for the original are favored\n\n\n\n\n\n\n\nWarning\n\n\n\nFair use determinations depend heavily on the specific facts of each case. When in doubt, seek permission or consult a librarian. UCR Library does not provide legal advice, but can help you think through the analysis.\n\n\n\n\nStep 2: Seek Permission if Needed\nIf permission is required:\n\nResearch who holds the copyright — it may be the author, publisher, or another rights holder — and send a written request.\nKeep records of all correspondence and permissions granted.\nEnsure the permission covers all intended uses — print and digital, all jurisdictions, etc.\n\nCommon materials in theses and dissertations that may require permission:\n\n📷 Photographs taken by others\n🗺️ Maps from published sources\n📊 Figures, tables, or graphs from journal articles or books\n🎵 Music (lyrics, scores, recordings)\n🎬 Film stills or video clips (including screenshots of YouTube videos)\n\nEven if something is freely available online or you own a copy of a book, this does not mean you have permission to reproduce it.\n\n\nStep 3: Address Non-Copyright Law & Policy Concerns\nEven when copyright is not an issue, consider:\n\nContractual or terms of service restrictions from archives, databases, or websites that limit how their content may be used.\nPrivacy or publicity rights — concerns about identifiable individuals in your data or images.\nEthical norms — certain types of information (e.g., Indigenous cultural knowledge, sensitive research data) may carry obligations beyond copyright law.\n\n\n\nStep 4: How Do You Want to Share?\nOnce copyright and policy concerns are resolved, decide how to make your work available:\n\nRegister your copyright — optional in the U.S., but registration provides legal advantages if infringement occurs. ProQuest offers registration at the time of dissertation submission.\nLicense your work — Creative Commons licenses let you specify exactly what others can do with it (see below).\n\nReview the slides and recording below for a deeper dive into copyright and fair use for digital projects."
   },
   {
     "objectID": "modules/05-publish-share.html#creative-commons-licenses",
@@ -224,18 +217,11 @@
     "text": "From Dissertation to Publication\nTurning your dissertation into a book or journal articles is an exciting but complex process.\n\nJournal Articles\n\nIdentify target journals in your field\nCheck the journal’s submission requirements and copyright policy\nAdapt your dissertation chapter to article format (typically 6,000–10,000 words)\nSubmit and revise through peer review\n\n\n\nBook Publication\n\nIdentify academic presses in your field\nPrepare a book proposal (overview, chapter summaries, market analysis)\nNavigate the peer review and revision process\nReview your publisher agreement carefully\n\nWatch the recording below for a walkthrough of navigating the dissertation-to-book publication process.\n\nFor additional perspective, this optional webinar covers book publishing specifically for first-generation scholars:\n\n\n\nProQuest Submission\nSubmitting your thesis or dissertation to ProQuest is a graduation requirement — this is separate from transforming your work into a publication with a commercial publisher. See Module 6: Graduate Academic Affairs for the full submission process."
   },
   {
-    "objectID": "modules/05-publish-share.html#resources",
-    "href": "modules/05-publish-share.html#resources",
-    "title": "Module 5: Publish & Share Your Research",
-    "section": "Resources",
-    "text": "Resources\n\n\nSlides: Copyright and Your Thesis/Dissertation Slides\nRecording: Copyright & Your Dissertation Video\nSlides: Copyright & Fair Use for Digital Projects Slides\nRecording: Copyright & Fair Use for Digital Projects Video\nRecording: From Dissertation to Book — Navigating the Publication Process Video\nOptional Webinar: Demystifying Book Publishing for First-Gen Scholars Video"
-  },
-  {
     "objectID": "modules/05-publish-share.html#assignment",
     "href": "modules/05-publish-share.html#assignment",
     "title": "Module 5: Publish & Share Your Research",
     "section": "Assignment",
-    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: Publish and Share Your Thesis and Dissertation Quiz\n\n\n\nComplete the quiz on Canvas to earn credit toward your badge.\nThis assignment is required for the certificate."
+    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: Publish and Share Your Thesis and Dissertation Quiz\n\n\n\nComplete the quiz on Canvas to earn credit toward your badge.\nThis assignment is required for the badge."
   },
   {
     "objectID": "modules/05-publish-share.html#get-help",
@@ -249,14 +235,14 @@
     "href": "about.html",
     "title": "About This Badge",
     "section": "",
-    "text": "The UCR Library Graduate Research Core Competencies Badge is a self-paced online microcredential developed by the UC Riverside Library to support graduate students at all stages of their research journey.\n\n\nBy completing this microcredential, graduate students gain practical, transferable skills to:\n\nConduct, manage, and disseminate their research ethically and efficiently\nUnderstand key concepts and practices in academic publishing and open access publishing\nIncrease their research visibility and academic profiles\nNavigate UCR’s graduation requirements with confidence\n\n\n\n\nThis badge is designed for all UCR graduate students, regardless of discipline or career stage, whether you are just starting your program or preparing to file your dissertation."
+    "text": "The UCR Library Graduate Research Core Competencies Badge is a self-paced online microcredential developed by the UC Riverside Library to support graduate students at all stages of their research journey.\n\n\nBy completing this microcredential, graduate students gain practical, transferable skills to:\n\nConduct, manage, and disseminate their research ethically and efficiently\nUnderstand key concepts and practices in academic publishing and open access publishing\nIncrease their research visibility and academic profiles\nNavigate UCR’s graduation requirements with confidence\n\n\n\n\nThis badge is designed for all UCR graduate students, regardless of discipline or career stage, whether you are just starting your program or preparing to file your dissertation. You can take your entire time as a UCR student to finish the badge."
   },
   {
-    "objectID": "about.html#the-graduate-research-core-competencies-certificate",
-    "href": "about.html#the-graduate-research-core-competencies-certificate",
-    "title": "About This Certificate",
+    "objectID": "about.html#the-ucr-library-graduate-research-core-competencies-badge",
+    "href": "about.html#the-ucr-library-graduate-research-core-competencies-badge",
+    "title": "About This Badge",
     "section": "",
-    "text": "The Graduate Research Core Competencies Certificate is a self-paced online program developed by the UC Riverside Library to support graduate students at all stages of their research journey.\n\n\nBy completing this certificate, graduate students gain practical, transferable skills to:\n\nConduct, manage, and disseminate their research ethically and efficiently\nUnderstand key concepts and practices in academic publishing and open access publishing\nIncrease their research visibility and academic profiles\nNavigate UCR’s graduation requirements with confidence\n\n\n\n\nThis certificate is designed for all UCR graduate students, regardless of discipline or career stage, whether you are just starting your program or preparing to file your dissertation."
+    "text": "The UCR Library Graduate Research Core Competencies Badge is a self-paced online microcredential developed by the UC Riverside Library to support graduate students at all stages of their research journey.\n\n\nBy completing this microcredential, graduate students gain practical, transferable skills to:\n\nConduct, manage, and disseminate their research ethically and efficiently\nUnderstand key concepts and practices in academic publishing and open access publishing\nIncrease their research visibility and academic profiles\nNavigate UCR’s graduation requirements with confidence\n\n\n\n\nThis badge is designed for all UCR graduate students, regardless of discipline or career stage, whether you are just starting your program or preparing to file your dissertation. You can take your entire time as a UCR student to finish the badge."
   },
   {
     "objectID": "about.html#program-structure",
@@ -277,21 +263,21 @@
     "href": "about.html#technical-notes",
     "title": "About This Badge",
     "section": "Technical Notes",
-    "text": "Technical Notes\nThis site is built with Quarto and hosted on GitHub Pages. This is the accompanying website for the Canvas course. The website is designed to streamline the learners’ experience. All assignments need to be submitted on Canvas to get points.\nTo report issues or suggest improvements, please open an issue on GitHub."
+    "text": "Technical Notes\nThis site is built with Quarto and hosted on GitHub Pages. This is the accompanying website for the Canvas course. The website is designed to streamline the learners’ experience. All assignments need to be submitted on Canvas to get points.\nThis site uses GoatCounter for anonymous usage analytics. No personal data or cookies are collected.\nTo report issues or suggest improvements, please open an issue on GitHub."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UCR Library Graduate Research Core Competencies Badge",
     "section": "",
-    "text": "UC Riverside Library · Self-Paced Badge\n\n\n\nPractical skills for every stage of your research journey — citation management, scholarly communication, data management, literature review strategies, publishing, and more.\nComplete all modules at your own pace to earn your badge."
+    "text": "UC Riverside Library · Self-Paced Badge\n\n\n\nPractical skills for every stage of your research journey — citation management, scholarly communication, data management, literature review strategies, publishing, and more.\nComplete all modules at your own pace to earn your badge.\nEnroll on Canvas →"
   },
   {
     "objectID": "index.html#what-youll-learn",
     "href": "index.html#what-youll-learn",
     "title": "UCR Library Graduate Research Core Competencies Badge",
     "section": "What You’ll Learn",
-    "text": "What You’ll Learn\nThe UCR Library Graduate Research Core Competencies Badge is designed to support graduate students at all stages of their research journey by building practical, transferable skills essential to scholarly work.\nParticipants develop strategies for:\n\nEffective citation management using tools like Zotero and Paperpile\nScholarly communication — ORCID, researcher identity, and open access\nResponsible research data management and open data publishing\nAdvanced literature review techniques including systematic and scoping reviews\nPublishing & sharing theses, dissertations, and research articles\nGraduation requirements — formatting, ProQuest, and Graduate Division workflows\n\n\nThe modules can be completed in any order, at your own pace. A badge will be awarded upon completion of all modules’ graded assignments.\n\n\n\n  \n    Submit Assignments on Canvas to Earn Points\n    The knowledge checks on this website mirror the quizzes on Canvas and are for self-study practice. To receive credit toward your badge, complete and submit all assignments through the Canvas course platform. Completing quizzes here does not count toward your grade."
+    "text": "What You’ll Learn\nThe UCR Library Graduate Research Core Competencies Badge is designed to support graduate students at all stages of their research journey by building practical, transferable skills essential to scholarly work.\nParticipants develop strategies for:\n\nEffective citation management using tools like Zotero and Paperpile\nScholarly communication — ORCID, researcher identity, and open access\nResponsible research data management and open data publishing\nAdvanced literature review techniques including systematic and scoping reviews\nPublishing & sharing theses, dissertations, and research articles\nGraduation requirements — formatting, ProQuest, and Graduate Division workflows\n\n\nThe modules can be completed in any order, at your own pace. A badge will be awarded upon completion of all modules’ graded assignments.\n\n\n\n  \n    This Site Is Integrated with Canvas\n    This website is designed to streamline asynchronous learning — you can work through each module at any time, at your own pace. Each Canvas module includes a START FROM HERE section that links directly to the corresponding page on this site.\n    The knowledge checks here mirror the quizzes on Canvas and are for self-study practice only. To receive credit and earn the official badge, all assignments must be submitted on Canvas. Completing quizzes here does not count toward your grade.\n    Not enrolled yet? Enroll in the Canvas course →"
   },
   {
     "objectID": "index.html#course-modules",
@@ -301,11 +287,11 @@
     "text": "Course Modules\n\nModule 1Citation ManagementUse Zotero and Paperpile to organize your references and learn how to create biosketches for grant applications.ZoteroPaperpileBiosketchStart Module →\nModule 2Scholarly CommunicationBuild your academic identity with ORCID, explore open access publishing, and understand UC Open Access Policies and implementations.ORCIDOpen AccesseScholarshipStart Module →\nModule 3Data ManagementCreate data management plans, organize your research data, and learn open data publishing with Dryad.DMP ToolDryadFAIR DataStart Module →\nModule 4Literature Review StrategiesDesign effective search strategies, understand types of reviews, and use UC Library resources.Database SearchSystematic ReviewAnnotated BibliographyStart Module →\nModule 5Publish & Share Your ResearchNavigate copyright, fair use, open access options, and the path from dissertation to publication.CopyrightFair UseOpen AccessStart Module →\nModule 6Graduate Academic AffairsUnderstand UCR formatting requirements, the ProQuest submission process, and graduation timelines.ProQuestFormattingGraduationStart Module →\nModule 7 · CapstoneResearch PlanIntegrate all competencies into a comprehensive research plan — your capstone for the badge.CapstoneResearch Plan🎓 BadgeStart Module →"
   },
   {
-    "objectID": "index.html#how-to-earn-your-certificate",
-    "href": "index.html#how-to-earn-your-certificate",
-    "title": "Graduate Research Core Competencies Certificate",
-    "section": "How to Earn Your Certificate",
-    "text": "How to Earn Your Certificate\n\n\n\n📖 Step 1\nComplete each module by reading the content and exploring resources, such as presentation slides, recordings, guides, and additional readings.\n\n\n\n\n\n✏️ Step 2\nSubmit the assignments on Canvas for each module.\n\n\n\n\n\n🎓 Step 3\nSubmit the Capstone Research Plan on Canvas to receive your official certificate via Accredible."
+    "objectID": "index.html#how-to-earn-your-badge",
+    "href": "index.html#how-to-earn-your-badge",
+    "title": "UCR Library Graduate Research Core Competencies Badge",
+    "section": "How to Earn Your Badge",
+    "text": "How to Earn Your Badge\n\n\n\n📖 Step 1\nComplete each module by reading the content and exploring resources, such as presentation slides, recordings, guides, and additional readings.\n\n\n\n\n\n✏️ Step 2\nSubmit the assignments on Canvas for each module.\n\n\n\n\n\n🎓 Step 3\nSubmit the Capstone Research Plan on Canvas to receive your official badge via Accredible."
   },
   {
     "objectID": "index.html#get-help",
@@ -413,13 +399,6 @@
     "text": "Data Publishing with Dryad\nDryad is a curated, open access data repository that makes research data freely available. Benefits include:\n\nAssigns a DOI to your dataset — making it citable\nIncreases your citation count (data citations are recognized)\nFacilitates reproducibility and research validation\nMany journals require or recommend Dryad for supplementary data\n\n\nSteps to Publish Data on Dryad\n\nOrganize and document your data (README + codebook)\nConvert to open file formats where possible\nCreate a Dryad account (free for UCR affiliates)\nUpload and describe your dataset\nReceive a DOI and share it in your publications\n\nReview the slides below for a guided walkthrough of data publishing with Dryad."
   },
   {
-    "objectID": "modules/03-data-management.html#resources",
-    "href": "modules/03-data-management.html#resources",
-    "title": "Module 3: Data Management",
-    "section": "Resources",
-    "text": "Resources\n\n\nUCR Data Management Plan Guide — UCR Library’s guide to writing your DMP Guide\nSlides: Data Publishing with Dryad — Dryad’s official documentation and guides Slides\nDryad Documentation & Guides — Getting started with data deposit Guide"
-  },
-  {
     "objectID": "modules/03-data-management.html#assignment",
     "href": "modules/03-data-management.html#assignment",
     "title": "Module 3: Data Management",
@@ -452,7 +431,7 @@
     "href": "modules/04-literature-review.html#types-of-reviews",
     "title": "Module 4: Literature Review Strategies",
     "section": "Types of Reviews",
-    "text": "Types of Reviews\nDifferent research questions call for different review methodologies. Understanding which type fits your project is essential before you begin searching. The descriptions below are drawn from the Baylor University Evidence Synthesis guide on Types of Reviews.\n\nLiterature (Narrative) Review\nA broad term referring to reviews with a wide scope and non-standardized methodology.\n\nSearch strategies, comprehensiveness, and time range covered vary and do not follow an established protocol.\n\n\n\nRapid Review\nApplies systematic review methodology within a time-constrained setting.\n\nEmploys methodological “shortcuts” (limiting search terms, for example) at the risk of introducing bias.\nUseful for addressing issues needing quick decisions.\n\n\n\nScoping Review or Systematic Map\nSystematically and transparently collects and categorizes existing evidence on a broad topic or set of research questions.\n\nSeeks to identify research gaps and opportunities for evidence synthesis.\nMay critically evaluate existing evidence, but does not attempt to synthesize the results in the way a systematic review would.\nMay take longer than a systematic review.\n\n\n\nUmbrella Review\nReviews other systematic reviews on a topic.\n\nOften defines a broader question than is typical of a traditional systematic review.\nMost useful when there are competing interventions to consider.\n\n\n\nSystematic Review\nA methodical and comprehensive literature synthesis focused on a well-formulated research question.\n\nAims to identify and synthesize all of the scholarly research on a particular topic, including both published and unpublished studies.\nConducted in an unbiased, reproducible way to provide evidence for practice and policy-making and to identify gaps in research.\nMay involve a meta-analysis.\nMuch more time-intensive than traditional literature reviews.\n\n\n\nMeta-Analysis\nA statistical technique for combining the findings from disparate quantitative studies.\n\nUses statistical methods to objectively evaluate, synthesize, and summarize results.\nMay be conducted independently or as part of a systematic review.\n\n\n\n\nComparison at a Glance\n\n\n\n\n\n\n\n\n\nReview Type\nScope\nMethodology\nTypical Use\n\n\n\n\nLiterature (Narrative) Review\nWide\nNon-standardized\nBackground chapters, introductions\n\n\nRapid Review\nSelective\nAbbreviated systematic\nTime-sensitive decisions\n\n\nScoping Review / Systematic Map\nBroad\nSystematic, no synthesis\nMapping gaps, feasibility\n\n\nUmbrella Review\nBroad\nReviews of reviews\nCompeting interventions\n\n\nSystematic Review\nExhaustive\nRigorous, reproducible\nPractice, policy, research gaps\n\n\nMeta-Analysis\nSelected studies\nStatistical combination\nEstimating effect sizes\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nNot sure which type fits your research? Consult your subject librarian or your advisor — they can help you match your research question to the appropriate methodology."
+    "text": "Types of Reviews\nDifferent research questions call for different review methodologies. Understanding which type fits your project is essential before you begin searching. The descriptions below are drawn from the Baylor University Evidence Synthesis guide on Types of Reviews.\n\nLiterature (Narrative) Review\nA broad term referring to reviews with a wide scope and non-standardized methodology.\n\nSearch strategies, comprehensiveness, and time range covered vary and do not follow an established protocol.\n\n\n\nRapid Review\nApplies systematic review methodology within a time-constrained setting.\n\nEmploys methodological “shortcuts” (limiting search terms, for example) at the risk of introducing bias.\nUseful for addressing issues needing quick decisions.\n\n\n\nScoping Review or Systematic Map\nSystematically and transparently collects and categorizes existing evidence on a broad topic or set of research questions.\n\nSeeks to identify research gaps and opportunities for evidence synthesis.\nMay critically evaluate existing evidence, but does not attempt to synthesize the results in the way a systematic review would.\n\n\n\nUmbrella Review\nReviews other systematic reviews on a topic.\n\nOften defines a broader question than is typical of a traditional systematic review.\nMost useful when there are competing interventions to consider.\n\n\n\nSystematic Review\nA methodical and comprehensive literature synthesis focused on a well-formulated research question.\n\nAims to identify and synthesize all of the scholarly research on a particular topic, including both published and unpublished studies.\nConducted in an unbiased, reproducible way to provide evidence for practice and policy-making and to identify gaps in research.\nMay involve a meta-analysis.\nMuch more time-intensive than traditional literature reviews.\n\n\n\nMeta-Analysis\nA statistical technique for combining the findings from disparate quantitative studies.\n\nUses statistical methods to objectively evaluate, synthesize, and summarize results.\nMay be conducted independently or as part of a systematic review.\n\n\n\n\nComparison at a Glance\n\n\n\n\n\n\n\n\n\nReview Type\nScope\nMethodology\nTypical Use\n\n\n\n\nLiterature (Narrative) Review\nWide\nNon-standardized\nBackground chapters, introductions\n\n\nRapid Review\nSelective\nAbbreviated systematic\nTime-sensitive decisions\n\n\nScoping Review / Systematic Map\nBroad\nSystematic, no synthesis\nMapping gaps, feasibility\n\n\nUmbrella Review\nBroad\nReviews of reviews\nCompeting interventions\n\n\nSystematic Review\nExhaustive\nRigorous, reproducible\nPractice, policy, research gaps\n\n\nMeta-Analysis\nSelected studies\nStatistical combination\nEstimating effect sizes\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nNot sure which type fits your research? Consult your subject librarian or your advisor — they can help you match your research question to the appropriate methodology."
   },
   {
     "objectID": "modules/04-literature-review.html#designing-your-search-strategy",
@@ -469,25 +448,18 @@
     "text": "Writing an Annotated Bibliography\nAn annotated bibliography combines a citation with a brief summary and evaluation of each source. It is useful for:\n\nTracking what you’ve read and why it’s relevant\nPreparing for the literature review chapter of your thesis or dissertation\nDemonstrating research depth in grant proposals\n\n\nWhat Each Annotation Includes\n\nFull citation (in your discipline’s style)\nSummary of the work’s main argument or findings (2–3 sentences)\nEvaluation of its relevance, methodology, or limitations (1–2 sentences)\n\nSee the UCR Guide to Writing an Annotated Bibliography for format examples and templates."
   },
   {
-    "objectID": "modules/04-literature-review.html#resources",
-    "href": "modules/04-literature-review.html#resources",
-    "title": "Module 4: Literature Review Strategies",
-    "section": "Resources",
-    "text": "Resources\n\n\nGuide: Conducting a Literature Review — UCR Library comprehensive guide Guide\nGuide: Writing an Annotated Bibliography — Format and examples Guide\nTypes of Reviews — Baylor University Evidence Synthesis Guide — Definitions and characteristics of 14 review methodologies Guide\nVideo Tutorial: How to Use UC Library Search Video\nVideo Tutorial: Search Strategies for Using Library Databases Video"
-  },
-  {
     "objectID": "modules/04-literature-review.html#assignment",
     "href": "modules/04-literature-review.html#assignment",
     "title": "Module 4: Literature Review Strategies",
     "section": "Assignment",
-    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: What Types of Review(s) Would Work Best for Your Research?\n\n\n\nWrite a short reflection (1 page) explaining:\n\nYour research question or area\nWhich type(s) of review would be most appropriate and why\nWhich databases you plan to search\nWhat your search strategy will be\n\nSubmission: Submit your reflection to the Canvas course platform.\nThis assignment is required for the certificate."
+    "text": "Assignment\n\n\n\n\n\n\nImportant📋 Assignment: What Types of Review(s) Would Work Best for Your Research?\n\n\n\nWrite a short reflection (1 page) explaining:\n\nYour research question or area\nWhich type(s) of review would be most appropriate and why\nWhich databases you plan to search\nWhat your search strategy will be\n\nSubmission: Submit your reflection to the Canvas course platform.\nThis assignment is required for the badge."
   },
   {
     "objectID": "modules/04-literature-review.html#get-help",
     "href": "modules/04-literature-review.html#get-help",
     "title": "Module 4: Literature Review Strategies",
     "section": "Get Help",
-    "text": "Get Help\n\n📧 Contact your subject librarian in Teaching and Learning Services for subject-specific literature review support\n🔗 Find Your Subject Librarian\n\n\n\n  \n    \n      Up Next · Module 5\n      Publish & Share Your Research\n    \n    →"
+    "text": "Get Help\n\n📧 Contact your subject librarian in Teaching and Learning Services for subject-specific literature review support\n\n\n\n  \n    \n      Up Next · Module 5\n      Publish & Share Your Research\n    \n    →"
   },
   {
     "objectID": "modules/06-graduate-academic-affairs.html",
@@ -532,13 +504,6 @@
     "text": "Key Contacts\n\n\n\nNeed\nContact\n\n\n\n\nFormatting, forms, graduation timeline\nUCR Graduate Division\n\n\nCopyright in your thesis\nDr. Jing Han · jingh@ucr.edu\n\n\neScholarship deposit\nDr. Jing Han · jingh@ucr.edu"
   },
   {
-    "objectID": "modules/06-graduate-academic-affairs.html#resources",
-    "href": "modules/06-graduate-academic-affairs.html#resources",
-    "title": "Module 6: Graduate Academic Affairs",
-    "section": "Resources",
-    "text": "Resources\n\n\nSlides: Dissertation and Thesis Formatting and Submission Workshop Slides\nRecording: Format Workshop for Your Thesis and Dissertation Video\nUCR Graduate Division Filing Resources — formatting guidelines, workshops, forms, and timelines Guide"
-  },
-  {
     "objectID": "modules/06-graduate-academic-affairs.html#assignment",
     "href": "modules/06-graduate-academic-affairs.html#assignment",
     "title": "Module 6: Graduate Academic Affairs",
@@ -551,82 +516,5 @@
     "title": "Module 6: Graduate Academic Affairs",
     "section": "Get Help",
     "text": "Get Help\n\n📧 Formatting, forms, graduation timeline: UCR Graduate Division\n📧 ProQuest questions, copyright: Dr. Jing Han · jingh@ucr.edu\n📧 eScholarship deposit: Dr. Jing Han · jingh@ucr.edu\n\n\n\n  \n    \n      Final Step · Module 7\n      🎓 Capstone: Research Plan\n    \n    →"
-  },
-  {
-    "objectID": "modules/01-citation-management.html#presentation-slides",
-    "href": "modules/01-citation-management.html#presentation-slides",
-    "title": "Module 1: Citation Management",
-    "section": "Presentation Slides",
-    "text": "Presentation Slides\nReview the slides below for a full walkthrough of citation management tools and workflows."
-  },
-  {
-    "objectID": "modules/01-citation-management.html#citing-sources",
-    "href": "modules/01-citation-management.html#citing-sources",
-    "title": "Module 1: Citation Management",
-    "section": "Citing Sources",
-    "text": "Citing Sources\nOnce your library is set up, both tools let you insert citations and auto-generate a bibliography in any style. For style-specific guidance (APA, MLA, Chicago, and more), see the UCR How to Cite Sources Guide."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#uc-open-access-journal-agreements",
-    "href": "modules/02-scholarly-communication.html#uc-open-access-journal-agreements",
-    "title": "Module 2: Scholarly Communication",
-    "section": "UC Open Access Journal Agreements",
-    "text": "UC Open Access Journal Agreements\n\nNote: UC Open Access Journal Agreements are separate from the UC Open Access Policy above. They are negotiated agreements between the UC system and publishers that allow UC-affiliated authors to publish open access in participating journals — often at no additional cost to the author.\n\nAs a UC graduate student, you are eligible for these agreements as long as you are the article’s corresponding author and the work was done while you were affiliated with UC — regardless of your role or personnel status.\n\n\n\nOA Agreement eligibility covers students, postdocs, clinicians, adjunct faculty, and all UC personnel\n\n\n\nUse the JOLT Journal Look Up Tool to check whether a specific journal is covered by a UC OA agreement\nLearn more: UC OA Agreements FAQ"
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#introduction-to-scholarly-publishing",
-    "href": "modules/02-scholarly-communication.html#introduction-to-scholarly-publishing",
-    "title": "Module 2: Scholarly Communication",
-    "section": "Introduction to Scholarly Publishing",
-    "text": "Introduction to Scholarly Publishing\nScholarly publishing is how research and creative work across all disciplines moves into the academic record — from the sciences and social sciences to the humanities and arts. Understanding this process helps you make informed decisions about where and how to publish your work.\nFor a graduate student’s perspective on navigating the publishing process, read: Student Column: Graduate Student’s Experience and Advice on Publishing.\nReview the slides below for an introduction to the scholarly publishing landscape."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#building-your-academic-profile-online",
-    "href": "modules/02-scholarly-communication.html#building-your-academic-profile-online",
-    "title": "Module 2: Scholarly Communication",
-    "section": "Building Your Academic Profile Online",
-    "text": "Building Your Academic Profile Online\nYour online academic presence helps others find your work, follow your research, and recognize your contributions across platforms. Review the slides below, then watch the recording for a guided walkthrough."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#orcid-persistent-identifiers-pids",
-    "href": "modules/02-scholarly-communication.html#orcid-persistent-identifiers-pids",
-    "title": "Module 2: Scholarly Communication",
-    "section": "ORCID & Persistent Identifiers (PIDs)",
-    "text": "ORCID & Persistent Identifiers (PIDs)\nORCID (Open Researcher and Contributor ID) is a free, unique digital identifier that distinguishes you from every other researcher, even those with the same name. Persistent identifiers (PIDs) like ORCID connect your identity across research systems automatically.\n\nWhy ORCID Matters\n\nEnsures your publications are correctly attributed to you regardless of name changes or institutional affiliations\nRequired by many funders (NIH, NSF) and journals for submission\nConnects to other research systems (Scopus, Web of Science, funding databases) automatically\nSaves time documenting your research contributions\nProvides fine-grained ways of documenting contributions, such as peer review experiences and services\n\n\n\nGetting Started with ORCID\n\nRegister at orcid.org — free and takes less than 5 minutes\nAdd your works — import from PubMed, CrossRef, or manually\nMake your ORCID record public to maximize visibility\nAdd your ORCID iD to your email signature, CV, and manuscript submissions\nDetailed instructions: Getting started with your ORCID record · Optimize your ORCID profile\n\nReview the slides below, then watch the workshop recording to see ORCID and PIDs in action.\n\n\n\n\n\n\n\n\n\nNoteShould my ORCID record only include peer-reviewed articles?\n\n\n\n\n\nNo. Your ORCID record should include all types of scholarly outputs — peer-reviewed articles, preprints, conference presentations, datasets, software, and more. The more complete your record, the better it reflects your full research contribution."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#uc-open-access-policy-journal-agreements",
-    "href": "modules/02-scholarly-communication.html#uc-open-access-policy-journal-agreements",
-    "title": "Module 2: Scholarly Communication",
-    "section": "UC Open Access Policy & Journal Agreements",
-    "text": "UC Open Access Policy & Journal Agreements\n\nUC Open Access Policy\nThe Academic Senate of the University of California adopted an Open Access Policy ensuring that future research articles authored by all employees at all 10 campuses of UC would be made available to the public at no charge once authors deposit them into eScholarship, UC’s open access repository.\n\n\n\nUC Open Access Policy Coverage\n\n\nMore information: UC Open Access Policy · Questions: Dr. Jing Han · jingh@ucr.edu\n\n\n\n\n\n\nNoteDoes the UC Open Access Policy apply to me as a graduate student?\n\n\n\n\n\nIf you are a graduate student paid by the UC system, then this policy applies to you. You may opt out of the policy for any article for any reason. Contact Dr. Jing Han (jingh@ucr.edu) if you have questions.\n\n\n\n\n\nUC Open Access Journal Agreements\n\nNote: UC Open Access Journal Agreements are separate from the UC Open Access Policy above. They are negotiated agreements between the UC system and publishers that allow UC-affiliated authors to publish open access in participating journals — often at no additional cost to the author.\n\nAs a UC graduate student, you are eligible for these agreements as long as you are the article’s corresponding author and the work was done while you were affiliated with UC — regardless of your role or personnel status.\n\n\n\nOA Agreement eligibility covers students, postdocs, clinicians, adjunct faculty, and all UC personnel\n\n\n\nUse the JOLT Journal Look Up Tool to check whether a specific journal is covered by a UC OA agreement\nLearn more: UC OA Agreements FAQ\n\nReview the slides below for an overview of UC-specific open access policies and agreements."
-  },
-  {
-    "objectID": "modules/02-scholarly-communication.html#uc-open-access-policy-journal-agreements-escholarship",
-    "href": "modules/02-scholarly-communication.html#uc-open-access-policy-journal-agreements-escholarship",
-    "title": "Module 2: Scholarly Communication",
-    "section": "UC Open Access Policy, Journal Agreements & eScholarship",
-    "text": "UC Open Access Policy, Journal Agreements & eScholarship\n\nUC Open Access Policy\nThe Academic Senate of the University of California adopted an Open Access Policy ensuring that future research articles authored by all UC employees would be made available to the public at no charge once authors deposit them into eScholarship, UC’s open access repository.\n\n\n\nUC Open Access Policy Coverage\n\n\nMore information: UC Open Access Policy · Questions: Dr. Jing Han · jingh@ucr.edu\n\n\n\n\n\n\nNoteDoes the UC Open Access Policy apply to me as a graduate student?\n\n\n\n\n\nIf you are a graduate student paid by the UC system, then this policy applies to you. You may opt out of the policy for any article for any reason. Contact Dr. Jing Han (jingh@ucr.edu) if you have questions.\n\n\n\n\n\nUC Open Access Journal Agreements\n\nNote: UC Open Access Journal Agreements are separate from the UC Open Access Policy above. They are negotiated agreements between the UC system and publishers that allow UC-affiliated authors to publish open access in participating journals, covering APC (Article Processing Charge) fees fully or partially.\n\nAs a UC graduate student, you are eligible for these agreements as long as you are the article’s corresponding author and the work was done while you were affiliated with UC — regardless of your role or personnel status.\n\n\n\nOA Agreement eligibility covers students, postdocs, clinicians, adjunct faculty, and all UC personnel\n\n\n\nUse the JOLT Journal Look Up Tool to check whether a specific journal is covered by a UC OA agreement\nLearn more: UC OA Agreements FAQ\n\n\n\neScholarship\neScholarship is the UC System’s open access publishing platform and institutional repository. It gives departments, research units, and individual scholars direct control over disseminating their scholarship.\n\nUCR’s eScholarship instance: escholarship.org/uc/ucr\nYour ProQuest thesis/dissertation submissions are deposited into eScholarship automatically\n\n\n\n\n\n\n\nNoteWhat is eScholarship and how is it related to me as a UCR graduate student?\n\n\n\n\n\neScholarship is the UC System’s Open Access Publishing Platform and Institutional Repository. It provides scholarly publishing and repository services that enable departments, research units, publishing programs, and individual scholars associated with the University of California to have direct control over the creation and dissemination of the full range of their scholarship.\nEach UC campus has its own instance. You can explore UCR’s eScholarship instance HERE. Your ProQuest thesis and dissertation submissions will be deposited automatically.\n\n\n\nReview the slides and watch the recording below to learn how to navigate open access repositories and publish with eScholarship."
-  },
-  {
-    "objectID": "index.html#how-to-earn-your-badge",
-    "href": "index.html#how-to-earn-your-badge",
-    "title": "UCR Library Graduate Research Core Competencies Badge",
-    "section": "How to Earn Your Badge",
-    "text": "How to Earn Your Badge\n\n\n\n📖 Step 1\nComplete each module by reading the content and exploring resources, such as presentation slides, recordings, guides, and additional readings.\n\n\n\n\n\n✏️ Step 2\nSubmit the assignments on Canvas for each module.\n\n\n\n\n\n🎓 Step 3\nSubmit the Capstone Research Plan on Canvas to receive your official badge via Accredible."
-  },
-  {
-    "objectID": "about.html#the-ucr-library-graduate-research-core-competencies-badge",
-    "href": "about.html#the-ucr-library-graduate-research-core-competencies-badge",
-    "title": "About This Badge",
-    "section": "",
-    "text": "The UCR Library Graduate Research Core Competencies Badge is a self-paced online microcredential developed by the UC Riverside Library to support graduate students at all stages of their research journey.\n\n\nBy completing this microcredential, graduate students gain practical, transferable skills to:\n\nConduct, manage, and disseminate their research ethically and efficiently\nUnderstand key concepts and practices in academic publishing and open access publishing\nIncrease their research visibility and academic profiles\nNavigate UCR’s graduation requirements with confidence\n\n\n\n\nThis badge is designed for all UCR graduate students, regardless of discipline or career stage, whether you are just starting your program or preparing to file your dissertation."
-  },
-  {
-    "objectID": "modules/07-capstone.html#badge-checklist",
-    "href": "modules/07-capstone.html#badge-checklist",
-    "title": "Module 7 (Capstone): Research Plan",
-    "section": "Badge Checklist",
-    "text": "Badge Checklist\nBefore submitting your capstone, confirm you have completed all of the following:\n\nModule 1: Citation Management — assignments submitted on Canvas\nModule 2: Scholarly Communication — assignments submitted on Canvas\nModule 3: Data Management — assignments submitted on Canvas\nModule 4: Literature Review Strategies — assignment submitted on Canvas\nModule 5: Publish & Share — quiz submitted on Canvas\nModule 6: Graduate Academic Affairs — knowledge check submitted on Canvas\nModule 7 (Capstone): Research Plan — submit now!"
   }
 ]
